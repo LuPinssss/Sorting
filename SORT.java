@@ -1,4 +1,4 @@
-public class BubbleSort{
+public class SORT{
     public static void main(String[] args) {
         int[] arr = {5, 2, 9, 1};
         for (int i = 0;i < arr.length;i++){
